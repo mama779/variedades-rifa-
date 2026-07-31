@@ -1,0 +1,6 @@
+{
+  "name": "Variedades CS Rifas",
+  "description": "Plataforma oficial de rifas gratuitas de Variedades CS con verificación de requisitos, asignación de números en tiempo real, sorteos transparentes y panel de administración.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
